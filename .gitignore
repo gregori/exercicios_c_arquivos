@@ -1,0 +1,33 @@
+# Arquivos de objeto e arquivos de linkagem
+*.o
+*.a
+*.so
+
+# Diretórios de compilação
+build/
+dist/
+
+# Arquivos de log
+logs
+*.log
+*.log.*
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+*.sublime*
+*.code-workspace
+
+# Outros
+*.out
+*.exe
+*.bak
+*.orig
+*.rej
