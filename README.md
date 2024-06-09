@@ -53,3 +53,11 @@ Escreva um programa que construa uma "base de dados" de alunos, equivalente a um
 
 ### Exercício 4
 Escreva um programa que leia o arquivo binário do exercício anterior e imprima os valores na tela.
+
+## Testes
+
+Você pode executar o script `testscript.sh` para testar os exercícios. Este script irá compilar os binários e executá-los.
+
+```
+bash ./testscript.sh
+```

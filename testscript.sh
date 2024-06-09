@@ -1,5 +1,7 @@
 #!/bin/bash
 
+make all
+
 # Teste para o Exercício 1
 echo "4" | ./build/exercicio1 > /dev/null
 
